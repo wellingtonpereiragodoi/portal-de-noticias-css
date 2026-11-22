@@ -1,68 +1,91 @@
-*{
-    box-sizing: border-box;  
-    margin: auto;
-    padding: 0;   
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
-     body>header { 
-        background-color: #2f3640;
-        padding: 16px 0;
-        color: #f5f6fa;
-
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fff;
+    color: #2f3640;
 }
 
-header .container {
+.container {
+    max-width: 1366px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+/* Cabeçalho */
+.site-header {
+    background-color: #2f3640;
+    padding: 16px 0;
+    color: #f5f6fa;
+}
+
+.site-header .container {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
-
+    gap: 16px;
 }
 
-header li {
+.site-header li {
     display: inline;
-    font-family:Arial, Helvetica, sans-serif ;
-    font-weight:bold ;
-    margin: left 16px;
+    font-weight: bold;
+    margin-left: 16px;
 }
 
-header li a {
+.site-header li a {
     color: #f5f6fa;
     text-decoration: none;
 }
 
-    .container {
-        width: 1366px;
-        margin:0 auto 0 auto ;
-}
+.site-header a[href="#sports"] { color: #11e755; }
+.site-header a[href="#entretenimento"] { color: #19a8e0; }
+.site-header a[href="#tecnologia"] { color: #b48ef0; }
+.site-header a[href="#economy"] { color: #ff961a; }
 
-     .article{ 
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-
-}
-
-     .article article img{
-        /*height: 180px; */
-        width: 100%;
-}
-
-    .article article{
-        width: 30%;
-}
-
-section{
+/* Seções e artigos */
+section {
     padding: 16px 0;
 }
 
-section h2,
-.article article{
+section h2 {
+    font-size: 32px;
     margin-bottom: 16px;
 }
 
-.article article h3{
-    margin-top:8px ;
-    margin-bottom:8px;
+.article {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.article article {
+    width: 30%;
+    min-width: 260px;
+    flex-grow: 1;
+    margin-bottom: 16px;
+}
+
+.article article img {
+    width: 100%;
+    display: block;
+}
+
+.article article time {
+    display: block;
+    margin-top: 8px;
+    font-size: 14px;
+}
+
+.article article h3 {
+    font-size: 24px;
+    margin: 8px 0;
 }
 
 .article article a {
@@ -76,50 +99,18 @@ section h2,
 }
 
 .article article a:hover {
-text-decoration:underline;
+    text-decoration: underline;
 }
 
-.article article p,
-.article article a{
-    font-size: arial,Helvetica, sans-serif;
-}
+/* Cores por seção */
+#sports { background-color: #bfe0c8; }
+#sports .article article a { background-color: #45a764; }
 
-.article article h3{
-    font-size: 24px;
-}
+#entretenimento { background-color: #9fc6f8; }
+#entretenimento .article article a { background-color: #19a8e0; }
 
-section h2{
-    font-size: 32px;
-}
+#tecnologia { background-color: #dbc9f0; }
+#tecnologia .article article a { background-color: #672777; }
 
-#sports{
-    background-color: #bfe0c8;
-}
-
-#sports .article article a{
-    background-color: #45a764;
-}
-
-#economy { 
-   background-color: #f8f59f;
-}
-
-#economy .article article a{
-    background-color: #ff961a;
-}
-
-#entretenimento{ 
-    background-color: #9fc6f8;
- }
- 
- #entretenimento .article article a{
-     background-color:#19a8e0;
- }
-
- #tecnologia { 
-    background-color: #dbc9f0;
- }
- 
- #tecnologia .article article a{
-     background-color: #672777;
- }
+#economy { background-color: #f8f59f; }
+#economy .article article a { background-color: #ff961a; }
