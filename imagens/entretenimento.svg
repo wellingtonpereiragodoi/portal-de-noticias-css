@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Palco de cinema com cortinas vermelhas">
+<title>Palco de cinema com cortinas vermelhas</title>
+<rect width="600" height="400" fill="#1a1a2e"/>
+<rect x="110" y="60" width="380" height="220" fill="#f5f0e1"/>
+<polygon points="300,0 180,280 420,280" fill="#fff8c4" opacity=".35"/>
+<path d="M0 0 H200 Q170 120 190 280 Q120 300 0 290 Z" fill="#b3001b"/>
+<path d="M600 0 H400 Q430 120 410 280 Q480 300 600 290 Z" fill="#b3001b"/>
+<path d="M40 0 Q30 140 50 290 M100 0 Q90 140 110 285 M560 0 Q570 140 550 290 M500 0 Q510 140 490 285" stroke="#7a0012" stroke-width="6" fill="none"/>
+<rect x="0" y="0" width="600" height="30" fill="#7a0012"/>
+<path d="M40 400 Q70 320 100 400 Z" fill="#0d0d1a"/><path d="M105 400 Q135 320 165 400 Z" fill="#0d0d1a"/><path d="M170 400 Q200 320 230 400 Z" fill="#0d0d1a"/><path d="M235 400 Q265 320 295 400 Z" fill="#0d0d1a"/><path d="M300 400 Q330 320 360 400 Z" fill="#0d0d1a"/><path d="M365 400 Q395 320 425 400 Z" fill="#0d0d1a"/><path d="M430 400 Q460 320 490 400 Z" fill="#0d0d1a"/><path d="M495 400 Q525 320 555 400 Z" fill="#0d0d1a"/><path d="M560 400 Q590 320 620 400 Z" fill="#0d0d1a"/>
+<polygon points="285,140 285,200 335,170" fill="#b3001b"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Notebook com código e maleta de trabalho">
+<title>Notebook com código e maleta de trabalho</title>
+<rect width="600" height="400" fill="#e9f1fa"/>
+<rect x="110" y="70" width="300" height="200" rx="12" fill="#2b2d42"/>
+<rect x="125" y="85" width="270" height="170" fill="#1e1e2e"/>
+<rect x="140" y="110" width="120" height="10" rx="5" fill="#f72585"/><rect x="160" y="135" width="160" height="10" rx="5" fill="#4cc9f0"/><rect x="160" y="160" width="100" height="10" rx="5" fill="#b5e48c"/><rect x="180" y="185" width="140" height="10" rx="5" fill="#4cc9f0"/><rect x="160" y="210" width="80" height="10" rx="5" fill="#ffd166"/><rect x="140" y="235" width="60" height="10" rx="5" fill="#f72585"/>
+<path d="M80 270 H440 L460 300 H60 Z" fill="#8d99ae"/>
+<rect x="400" y="200" width="150" height="110" rx="10" fill="#6b4226"/>
+<rect x="445" y="180" width="60" height="25" rx="8" fill="none" stroke="#6b4226" stroke-width="8"/>
+<rect x="400" y="240" width="150" height="8" fill="#4a2c17"/>
+<rect x="465" y="232" width="20" height="24" rx="3" fill="#ffd166"/>
+</svg>

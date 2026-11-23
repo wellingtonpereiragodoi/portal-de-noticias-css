@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Chip de computador em uma placa de circuito">
+<title>Chip de computador em uma placa de circuito</title>
+<rect width="600" height="400" fill="#0b3d2e"/>
+<g stroke="#2ee59d" stroke-width="4" fill="none" opacity=".8">
+<path d="M0 80 H150 L190 120 H230"/><path d="M0 320 H120 L160 280 H230"/>
+<path d="M600 90 H460 L420 130 H370"/><path d="M600 310 H470 L430 270 H370"/>
+<path d="M260 0 V110"/><path d="M340 0 V60 L320 80 V110"/>
+<path d="M260 400 V290"/><path d="M340 400 V330 L320 310 V290"/>
+</g>
+<circle cx="230" cy="120" r="7" fill="#2ee59d"/><circle cx="230" cy="280" r="7" fill="#2ee59d"/><circle cx="370" cy="130" r="7" fill="#2ee59d"/><circle cx="370" cy="270" r="7" fill="#2ee59d"/><circle cx="260" cy="110" r="7" fill="#2ee59d"/><circle cx="320" cy="110" r="7" fill="#2ee59d"/><circle cx="260" cy="290" r="7" fill="#2ee59d"/><circle cx="320" cy="290" r="7" fill="#2ee59d"/>
+<rect x="225" y="125" width="150" height="150" rx="10" fill="#1c1c1c" stroke="#2ee59d" stroke-width="4"/>
+<rect x="255" y="155" width="90" height="90" rx="6" fill="#2a2a2a"/>
+<text x="300" y="210" font-family="Arial" font-size="28" font-weight="bold" fill="#2ee59d" text-anchor="middle">IA</text>
+</svg>

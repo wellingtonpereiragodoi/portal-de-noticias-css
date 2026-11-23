@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Bola de futebol no gramado">
+<title>Bola de futebol no gramado</title>
+<rect width="600" height="400" fill="#2e8b3a"/>
+<rect x="0" width="50" height="400" fill="#33993f"/><rect x="100" width="50" height="400" fill="#33993f"/><rect x="200" width="50" height="400" fill="#33993f"/><rect x="300" width="50" height="400" fill="#33993f"/><rect x="400" width="50" height="400" fill="#33993f"/><rect x="500" width="50" height="400" fill="#33993f"/>
+<path d="M0 300 H600" stroke="#fff" stroke-width="4" opacity=".7"/>
+<ellipse cx="300" cy="318" rx="95" ry="16" fill="#000" opacity=".25"/>
+<circle cx="300" cy="215" r="100" fill="#fff" stroke="#222" stroke-width="4"/>
+<polygon points="300,175 338,203 324,248 276,248 262,203" fill="#222"/>
+<g stroke="#222" stroke-width="4">
+<line x1="300" y1="175" x2="300" y2="117"/><line x1="338" y1="203" x2="393" y2="185"/>
+<line x1="324" y1="248" x2="358" y2="296"/><line x1="276" y1="248" x2="242" y2="296"/>
+<line x1="262" y1="203" x2="207" y2="185"/>
+</g>
+<path d="M276 117 L300 117 L324 117 L340 125 L300 140 L260 125 Z" fill="#222"/>
+<path d="M393 185 L398 230 L380 215 Z M207 185 L202 230 L220 215 Z" fill="#222"/>
+<path d="M330 312 L358 296 L370 280 Z M270 312 L242 296 L230 280 Z" fill="#222"/>
+</svg>

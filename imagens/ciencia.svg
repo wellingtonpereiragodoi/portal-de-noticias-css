@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Átomo e frasco de laboratório representando ciência">
+<title>Átomo e frasco de laboratório representando ciência</title>
+<rect width="600" height="400" fill="#1d3557"/>
+<g fill="none" stroke="#a8dadc" stroke-width="5">
+<ellipse cx="210" cy="200" rx="130" ry="45"/>
+<ellipse cx="210" cy="200" rx="130" ry="45" transform="rotate(60 210 200)"/>
+<ellipse cx="210" cy="200" rx="130" ry="45" transform="rotate(-60 210 200)"/>
+</g>
+<circle cx="210" cy="200" r="22" fill="#e63946"/>
+<circle cx="340" cy="200" r="10" fill="#f1faee"/><circle cx="145" cy="88" r="10" fill="#f1faee"/><circle cx="145" cy="312" r="10" fill="#f1faee"/>
+<path d="M430 90 H490 M445 90 V180 L390 320 Q385 340 405 340 H515 Q535 340 530 320 L475 180 V90" fill="#f1faee" stroke="#a8dadc" stroke-width="5"/>
+<path d="M412 270 H508 L527 322 Q530 335 515 335 H405 Q390 335 393 322 Z" fill="#2ec4b6"/>
+<circle cx="440" cy="300" r="8" fill="#f1faee"/><circle cx="470" cy="285" r="5" fill="#f1faee"/><circle cx="485" cy="310" r="6" fill="#f1faee"/>
+</svg>

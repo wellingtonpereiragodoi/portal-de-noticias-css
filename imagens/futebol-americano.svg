@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Bola de futebol americano no campo">
+<title>Bola de futebol americano no campo</title>
+<rect width="600" height="400" fill="#3b7d2c"/>
+<line x1="60" y1="0" x2="60" y2="400" stroke="#fff" stroke-width="4" opacity=".8"/><line x1="180" y1="0" x2="180" y2="400" stroke="#fff" stroke-width="4" opacity=".8"/><line x1="300" y1="0" x2="300" y2="400" stroke="#fff" stroke-width="4" opacity=".8"/><line x1="420" y1="0" x2="420" y2="400" stroke="#fff" stroke-width="4" opacity=".8"/><line x1="540" y1="0" x2="540" y2="400" stroke="#fff" stroke-width="4" opacity=".8"/>
+<text x="120" y="380" font-family="Arial" font-size="32" font-weight="bold" fill="#fff" opacity=".8" text-anchor="middle">10</text><text x="240" y="380" font-family="Arial" font-size="32" font-weight="bold" fill="#fff" opacity=".8" text-anchor="middle">20</text><text x="360" y="380" font-family="Arial" font-size="32" font-weight="bold" fill="#fff" opacity=".8" text-anchor="middle">30</text><text x="480" y="380" font-family="Arial" font-size="32" font-weight="bold" fill="#fff" opacity=".8" text-anchor="middle">40</text>
+<ellipse cx="300" cy="300" rx="130" ry="18" fill="#000" opacity=".25"/>
+<g transform="rotate(-20 300 200)">
+<ellipse cx="300" cy="200" rx="150" ry="85" fill="#8b4513" stroke="#5a2d0c" stroke-width="5"/>
+<path d="M175 165 Q190 200 175 235 M425 165 Q410 200 425 235" stroke="#fff" stroke-width="8" fill="none"/>
+<line x1="250" y1="160" x2="350" y2="160" stroke="#fff" stroke-width="6"/>
+<line x1="260" y1="148" x2="260" y2="172" stroke="#fff" stroke-width="5"/><line x1="280" y1="148" x2="280" y2="172" stroke="#fff" stroke-width="5"/><line x1="300" y1="148" x2="300" y2="172" stroke="#fff" stroke-width="5"/><line x1="320" y1="148" x2="320" y2="172" stroke="#fff" stroke-width="5"/><line x1="340" y1="148" x2="340" y2="172" stroke="#fff" stroke-width="5"/>
+</g>
+</svg>

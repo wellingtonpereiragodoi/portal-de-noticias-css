@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Notas de euro espalhadas">
+<title>Notas de euro espalhadas</title>
+<rect width="600" height="400" fill="#eef2fb"/>
+<g transform="translate(90 170) rotate(-12)">
+<rect width="300" height="150" rx="8" fill="#4a7bd0" stroke="#1b2a4a" stroke-width="3" opacity=".95"/>
+<circle cx="80" cy="75" r="45" fill="#fff" opacity=".35"/>
+<text x="80" y="95" font-family="Arial" font-size="58" font-weight="bold" fill="#1b2a4a" text-anchor="middle">€</text>
+<text x="270" y="40" font-family="Arial" font-size="26" font-weight="bold" fill="#1b2a4a" text-anchor="end">50</text>
+<circle cx="170" cy="110" r="6" fill="#ffd700"/><circle cx="192" cy="110" r="6" fill="#ffd700"/><circle cx="214" cy="110" r="6" fill="#ffd700"/><circle cx="236" cy="110" r="6" fill="#ffd700"/><circle cx="258" cy="110" r="6" fill="#ffd700"/>
+</g><g transform="translate(170 120) rotate(8)">
+<rect width="300" height="150" rx="8" fill="#e9a23b" stroke="#1b2a4a" stroke-width="3" opacity=".95"/>
+<circle cx="80" cy="75" r="45" fill="#fff" opacity=".35"/>
+<text x="80" y="95" font-family="Arial" font-size="58" font-weight="bold" fill="#1b2a4a" text-anchor="middle">€</text>
+<text x="270" y="40" font-family="Arial" font-size="26" font-weight="bold" fill="#1b2a4a" text-anchor="end">50</text>
+<circle cx="170" cy="110" r="6" fill="#ffd700"/><circle cx="192" cy="110" r="6" fill="#ffd700"/><circle cx="214" cy="110" r="6" fill="#ffd700"/><circle cx="236" cy="110" r="6" fill="#ffd700"/><circle cx="258" cy="110" r="6" fill="#ffd700"/>
+</g><g transform="translate(140 210) rotate(-3)">
+<rect width="300" height="150" rx="8" fill="#7cae5a" stroke="#1b2a4a" stroke-width="3" opacity=".95"/>
+<circle cx="80" cy="75" r="45" fill="#fff" opacity=".35"/>
+<text x="80" y="95" font-family="Arial" font-size="58" font-weight="bold" fill="#1b2a4a" text-anchor="middle">€</text>
+<text x="270" y="40" font-family="Arial" font-size="26" font-weight="bold" fill="#1b2a4a" text-anchor="end">50</text>
+<circle cx="170" cy="110" r="6" fill="#ffd700"/><circle cx="192" cy="110" r="6" fill="#ffd700"/><circle cx="214" cy="110" r="6" fill="#ffd700"/><circle cx="236" cy="110" r="6" fill="#ffd700"/><circle cx="258" cy="110" r="6" fill="#ffd700"/>
+</g>
+<path d="M500 60 L530 110 L560 60 M530 110 V10" stroke="#e63946" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round" transform="translate(0 30)"/>
+</svg>

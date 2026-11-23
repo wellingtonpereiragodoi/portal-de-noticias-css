@@ -6,7 +6,7 @@ Exercício de CSS: a página de um portal de notícias com seções de esportes,
 
 Abra o arquivo `index.html` no navegador.
 
-> As imagens das notícias ficam na pasta `imagens/`, que ainda não foi enviada para o repositório.
+As ilustrações das notícias estão na pasta `imagens/`, em formato SVG (vetorial, leve e nítido em qualquer tela).
 
 ## Tecnologias
 
